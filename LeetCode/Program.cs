@@ -5,8 +5,8 @@ class Program
     static void Main(string[] args)
     {
 
-        IsPalindrome isPalindrome = new IsPalindrome();
-        isPalindrome.IsPalindromeTest();
+        RomanToInt romanToInt = new RomanToInt();
+        romanToInt.TestRomanToInt();
 
     }
 }
