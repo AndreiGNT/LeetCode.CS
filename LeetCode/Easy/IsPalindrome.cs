@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace LeetCode.Easy
+﻿namespace LeetCode.Easy
 {
     internal class IsPalindrome
     {
