@@ -5,8 +5,8 @@ class Program
     static void Main(string[] args)
     {
 
-        RomanToInt romanToInt = new RomanToInt();
-        romanToInt.TestRomanToInt();
+        ValidParentheses validParentheses = new ValidParentheses();
+        validParentheses.IsValidTest();
 
     }
 }
