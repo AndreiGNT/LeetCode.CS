@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
 
-        StrStr strStr = new StrStr();
-        strStr.StrStrTest();
+        LengthOfLastWord lengthOfLastWord = new LengthOfLastWord();
+        lengthOfLastWord.LengthOfLastWordTest();
     }
 }
