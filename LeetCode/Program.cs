@@ -5,8 +5,7 @@ class Program
     static void Main(string[] args)
     {
 
-        ValidParentheses validParentheses = new ValidParentheses();
-        validParentheses.IsValidTest();
-
+        StrStr strStr = new StrStr();
+        strStr.StrStrTest();
     }
 }
