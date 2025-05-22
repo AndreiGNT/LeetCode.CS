@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
 
-        PlusOne plusOne = new PlusOne();
-        plusOne.PlusOneTest();
+        MergeSortedArray mergeSortedArray = new MergeSortedArray();
+        mergeSortedArray.MergeTest();
     }
 }
