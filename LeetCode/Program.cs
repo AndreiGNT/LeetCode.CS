@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
 
-        MergeSortedArray mergeSortedArray = new MergeSortedArray();
-        mergeSortedArray.MergeTest();
+        RemoveDuplicates removeDuplicates = new();
+        removeDuplicates.RemoveDuplicatesTest();
     }
 }
