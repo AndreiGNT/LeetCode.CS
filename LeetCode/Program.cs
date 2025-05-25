@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        SearchInsert searchInsert = new SearchInsert();
-        searchInsert.SearchInsertTest();
+        DeleteDuplicates deleteDuplicates = new DeleteDuplicates();
+        deleteDuplicates.DeleteDuplicatesTest();  
     }
 }
