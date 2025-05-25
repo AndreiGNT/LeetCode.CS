@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-
-        RemoveDuplicates removeDuplicates = new();
-        removeDuplicates.RemoveDuplicatesTest();
+        RemoveElement removeElement = new();
+        removeElement.RemoveElementsTest();
     }
 }
