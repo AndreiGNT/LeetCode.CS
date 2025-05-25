@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        RemoveElement removeElement = new();
-        removeElement.RemoveElementsTest();
+        SearchInsert searchInsert = new SearchInsert();
+        searchInsert.SearchInsertTest();
     }
 }
