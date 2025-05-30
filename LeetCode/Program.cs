@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        DeleteDuplicates deleteDuplicates = new DeleteDuplicates();
-        deleteDuplicates.DeleteDuplicatesTest();  
+        MergeTwoLists mergeTwoLists = new MergeTwoLists();
+        mergeTwoLists.MergeTwoListsTest();
     }
 }
