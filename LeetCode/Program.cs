@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        IsPalindromeFrase isPalindromeFrase = new IsPalindromeFrase();
-        isPalindromeFrase.IsPalindromeTest();
+        SingleNumber singleNumber = new SingleNumber();
+        singleNumber.SingleNumberTest();
 
     }
 }
