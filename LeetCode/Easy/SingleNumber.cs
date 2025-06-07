@@ -22,10 +22,15 @@ namespace LeetCode.Easy
 
         public void SingleNumberTest()
         {
-            int[] nums = { 1, 4, 3, 4, 5, 1, 5 };
+            int[] nums = { 1, 4, 7, 4, 5, 1, 5 };
             int result = SingleNumberFunc(nums);
             Console.WriteLine("Expected number: 3");
             Console.WriteLine("Output: " + result);
         }
     }
+
+    /* 256 128 64 32 16 8 4 2 1 
+     *   0   0  0  0  0 0 0 0 0 
+     *   8   7  6  5  4 3 2 1 0  -  (1 * n**2)
+     */
 }

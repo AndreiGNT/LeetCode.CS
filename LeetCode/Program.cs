@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        SingleNumber singleNumber = new SingleNumber();
-        singleNumber.SingleNumberTest();
+        MajorityElement majorityElement = new MajorityElement();
+        majorityElement.MajorityElementTest();
 
     }
 }
