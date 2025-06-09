@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        ContainsDuplicate containsDuplicate = new ContainsDuplicate();
-        containsDuplicate.ContainsDuplicateTest();
+        MissingNumber missingNumber = new MissingNumber();
+        missingNumber.MissingNumberTest();
 
     }
 }
