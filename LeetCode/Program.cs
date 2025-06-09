@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        MajorityElement majorityElement = new MajorityElement();
-        majorityElement.MajorityElementTest();
+        ContainsDuplicate containsDuplicate = new ContainsDuplicate();
+        containsDuplicate.ContainsDuplicateTest();
 
     }
 }
