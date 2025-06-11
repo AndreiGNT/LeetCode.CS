@@ -24,7 +24,7 @@ namespace LeetCode.Easy
 
         public void ClimbingStairsTest()
         {
-            int n = 9;
+            int n = 5;
             int result = ClimbStairsFunc(n);
             Console.WriteLine("Expected: 8");
             Console.WriteLine("Result: " + result);
