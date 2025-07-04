@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        CountBits countBits = new CountBits();
-        countBits.CountBitsTest();
+        HasCycle hasCycle = new HasCycle();
+        hasCycle.HasCycleTest();
 
     }
 }
